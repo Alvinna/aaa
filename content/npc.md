@@ -24,12 +24,15 @@
 ### Istrian, leader of the Dai Sun
 ### wants the advanced translator tech recently developed by black hats
 
-## ???
+## Captain Samir Hildegard
 ### human, pirate captain
 ### aloof, mercenary but basically inclined to justice
 ### curly hair, tan skin, steel gray armor bodysuit, curved sword, gray cape
 ### gold filigree in his armor, helmet, gold eyes
 ### low cut black shirt under the armor
 
-## ???
+## Cordelia
 ### Allakian, tech "priestess" from the black hats, lives in isolation on a human planet and is revered
+
+## ???
+### The ship's AI
