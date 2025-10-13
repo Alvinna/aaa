@@ -20,3 +20,20 @@ Assign +2, +1, +1, 0, -1 to the five stats.
 All actions are resolved by rolling 2d6. 
 * 7 ~ 9: conditional success
 * 10+: success
+
+## Combat system for ship:
+
+* Overheating, hacking, etc.
+
+* Maneuvers, ship stats (armor, weapons, speed, agility)
+
+* Crew will be in charge of different facets:
+* Shielding sections (more protected and less protected sides, 6 sided die)
+* Weapons - railgun (high damage, ½ chance) or ballistics (lower damage, ¾ chance)
+* Evasion (no dmg <25, low dmg, high dmg >75)
+* Hacking (if party gets -1, and enemy gets +1, no evasion, vice versa)
+* Repairs (6 sided die, -1,0,+1 health)
+
+* Every time crew loses one quarter health, someone rolls for personal injury
+
+* All health lost, everyone rolls injury, ship is disabled and consequences are story/location based
