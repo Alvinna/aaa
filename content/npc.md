@@ -7,7 +7,7 @@
 ## Delegate Whitaker
 ### in charge of Presidium"s dirty work, recruits crew
 
-## Sirina
+## Iris
 ### Engineer from Pygmalion, reports coworker for suspected theft
 ### cafe? nonviolent, brave, civic minded
 
