@@ -94,7 +94,17 @@ The Natural Order's extremist members are trying to destroy the terraformers and
 Galatea will come in to prevent the terraforming efforts and make an ally of the Natural Order, while also seeking to kidnap Ashra and extract information from her
 
 
-MISSION 7: Galatea offers transponder change and freedom
+MISSION 7: Galatea offers transponder change and freedom - releases information to galaxy containing evidence of illegal bio experiments and assassinations all performed by Presidium interests
 
-MISSION 8: Pirate attack and boarding
+SUB MISSION: Pirate attack and boarding, could happen any time? Maybe if ship is disabled in battle
+
+MISSION 8: Captain Hildebrand is stealing Presidium aid to a black hat planet that is in turmoil over Galatea’s revelations of black hat bio experiments (mention this in newsfeeds through other missions)
+Whitaker orders them to intervene, liaising with Cap should reveal the aid is really riot control weaponry being deployed in advance
+Many of the scientists are wanting to evacuate, Cap will help if convinced
+
+Galatea and her growing movement will destroy most of the facilities on planet, killing numerous scientists and innocents
+
+They may chase Galatea on her way off-planet, but she will hack and activate the riot control machinery on Cap's ship. and they'll have to stop to help him
+
+
 
