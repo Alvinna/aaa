@@ -1,5 +1,5 @@
 ---
-title: "AAA"
+title: "Adveture Ad Astra"
 author: "Clara & Nathan"
 description: "AAA"
 ---

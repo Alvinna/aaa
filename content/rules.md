@@ -21,6 +21,32 @@ All actions are resolved by rolling 2d6.
 * 7 ~ 9: conditional success
 * 10+: success
 
+## Combat
+
+### Role evaluation order
+```
+    M
+       \
+         M  ----- role dice
+         M
+       /
+    M       ----- role dice
+    M
+       \
+         M  ----- role dice
+         M
+```
+
+Roles >= 7 count as hit
+
+### Combat moves:
+* Movement (1mp)
+* Attack  (1mp)
+* Deflect (1mp)
+* Parry-reposte (2mp, + 1tp)
+* Heavy attack (2mp)
+
+
 ## Combat system for ship:
 
 * Overheating, hacking, etc.
@@ -37,3 +63,22 @@ All actions are resolved by rolling 2d6.
 * Every time crew loses one quarter health, someone rolls for personal injury
 
 * All health lost, everyone rolls injury, ship is disabled and consequences are story/location based
+
+## Level progression:
+    Successful mission reward players with XP. N XP advances a level. Players can add new move everytime they gain a level.
+
+## Reference
+ | role|     ==|      >=|      <=|
+ | -|-|-|-|
+ | 2 |   2.78|  100.00 |   2.78|
+ | 3 |   5.56|   97.22 |   8.33|
+ | 4 |   8.33|   91.67 |  16.67|
+ | 5 |  11.11|   83.33 |  27.78|
+ | 6 |  13.89|   72.22 |  41.67|
+ | 7 |  16.67|   58.33 |  58.33|
+ | 8 |  13.89|   41.67 |  72.22|
+ | 9 |  11.11|   27.78 |  83.33|
+ | 10|   8.33|   16.67 |  91.67|
+ | 11|   5.56|    8.33 |  97.22|
+ | 12|   2.78|    2.78 | 100.00|
+
