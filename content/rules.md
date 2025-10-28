@@ -16,6 +16,7 @@ Assign +2, +1, +1, 0, -1 to the five stats.
 * You have a [thing]. When applicable, it adds +1 to [stat] and [stat].
 * You have the ability to [do some sort of active special power]. It counts as a basic move using [stat].
 * You have [some passive special power that has a constant effect].
+* Basic moves can earn victory points in some battles, that contribute to ending combat
 
 All actions are resolved by rolling 2d6. 
 * 7 ~ 9: conditional success
@@ -37,14 +38,14 @@ All actions are resolved by rolling 2d6.
          M
 ```
 
-Roles >= 7 count as hit
+Roles >= 8 count as hit
 
 ### Combat moves:
 * Movement (1mp)
 * Attack  (1mp) - standard attack
 * Deflect (1mp) - add one point to defense
-* Parry-reposte (2mp, + 1tp) - add one point to defense, and if successful, one point to attack (otherwise no attack)
-* Heavy attack (2mp) - add two points to attack
+* Parry-riposte (2mp, + 1tp) - add one point to defense, and if successful, one point to attack plus one TP (otherwise no attack)
+* Heavy attack (2mp) - add one points to attack, hits for 2 hp
 
 
 ## Combat system for ship:
