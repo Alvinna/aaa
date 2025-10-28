@@ -41,10 +41,10 @@ Roles >= 7 count as hit
 
 ### Combat moves:
 * Movement (1mp)
-* Attack  (1mp)
-* Deflect (1mp)
-* Parry-reposte (2mp, + 1tp)
-* Heavy attack (2mp)
+* Attack  (1mp) - standard attack
+* Deflect (1mp) - add one point to defense
+* Parry-reposte (2mp, + 1tp) - add one point to defense, and if successful, one point to attack (otherwise no attack)
+* Heavy attack (2mp) - add two points to attack
 
 
 ## Combat system for ship:
