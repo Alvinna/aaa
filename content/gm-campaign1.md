@@ -85,9 +85,13 @@ Bring Renegade back to Daedalus on the Lagrange Ark. He tells party about automa
 
 MISSION 6: NovaLife mission - Galatea makes herself known
 
-Female human scientist with modifications (chromatophores, night vision, solar power) believes in the work but does not know about the experiments NovaLife has done
+Female human scientist Ashra with modifications (chromatophores, night vision, solar power) believes in the work but does not know about the experiments NovaLife has done
 
+Expansionists from the Presidium are about to terraform a new world - crew is sent to provide security for Ashra as she tries to preserve life forms and useful genetics
 
+The Natural Order's extremist members are trying to destroy the terraformers and kill Ashra as well, crew should protect her
+
+Galatea will come in to prevent the terraforming efforts and make an ally of the Natural Order, while also seeking to kidnap Ashra and extract information from her
 
 
 MISSION 7: Galatea offers transponder change and freedom
