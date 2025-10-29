@@ -106,5 +106,9 @@ Galatea and her growing movement will destroy most of the facilities on planet, 
 
 They may chase Galatea on her way off-planet, but she will hack and activate the riot control machinery on Cap's ship. and they'll have to stop to help him
 
+MISSION ???: Whitaker will ask the crew to help lower tensions by investigating and interceding with illegal experiments done by rogue NovaLife scientists
+They will receive a transmission from Whitaker at the end of mission - Galatea spoofed his transponder to give them a fake mission and Whitaker thinks they've turned, disavows them
+Galatea will turn off their transponder free of charge as "payment", and tells them they'll be hunted now
+
 
 
