@@ -99,7 +99,8 @@ MISSION 7: Galatea offers transponder change and freedom - releases information 
 SUB MISSION: Pirate attack and boarding, could happen any time? Maybe if ship is disabled in battle
 
 MISSION 8: Captain Hildebrand is stealing Presidium aid to a black hat planet that is in turmoil over Galatea’s revelations of black hat bio experiments (mention this in newsfeeds through other missions)
-Whitaker orders them to intervene, liaising with Cap should reveal the aid is really riot control weaponry being deployed in advance
+Whitaker orders them to intervene, they will meet a diplomat on planet negotiating with sieges happening on black hat facilities
+Liaising with Cap should reveal the aid is really riot control weaponry being deployed in advance
 Many of the scientists are wanting to evacuate, Cap will help if convinced
 
 Galatea and her growing movement will destroy most of the facilities on planet, killing numerous scientists and innocents
