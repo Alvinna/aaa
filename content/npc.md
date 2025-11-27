@@ -30,6 +30,7 @@
 ### curly hair, tan skin, steel gray armor bodysuit, curved sword, gray cape
 ### gold filigree in his armor, helmet, gold eyes
 ### low cut black shirt under the armor
+### Galatea's "brother" (raised by the same pirate)
 
 ## Cordelia
 ### Allakian, tech "priestess" from the black hats, lives in isolation on a human planet and is revered
