@@ -5,7 +5,7 @@
 ### violently opposed to the current monopolies by each faction, mostly NovaLife and the black hats
 
 ## Delegate Whitaker
-### in charge of Presidium"s dirty work, recruits crew
+### in charge of Presidium's dirty work, recruits crew
 
 ## Iris
 ### Engineer from Pygmalion, reports coworker for suspected theft
@@ -37,3 +37,5 @@
 
 ## ???
 ### The ship's AI
+### asks them to recover the Renegade's body, may use it to join combat or pull crew out of the fire
+### uncomfortable with the secrets learned from Daedalus - decides he wants more out of life than just being a ship
