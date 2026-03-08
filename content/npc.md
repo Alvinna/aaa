@@ -1,15 +1,17 @@
 ## Galatea Navarre
-### Allakian, underwent genetic experiments as a child
-### tentacle arm, various other modifications (spikes, limited psychic capability)
-### gets access to transponder spoofing tech (offers it to crew to be free of Presidium, but eventually uses it to trick them into attacking NovaLife)
-### violently opposed to the current monopolies by each faction, mostly NovaLife and the black hats
+* Ellakian, underwent genetic experiments as a child
+* tentacle arm, various other modifications (spikes, limited psychic capability)
+* gets access to transponder spoofing tech (offers it to crew to be free of
+  Presidium, but eventually uses it to trick them into attacking NovaLife)
+* violently opposed to the current monopolies by each faction, mostly NovaLife
+  and the black hats
 
 ## Delegate Whitaker
-### in charge of Presidium's dirty work, recruits crew
+* In charge of Presidium's dirty work, recruits crew
 
 ## Iris
-### Engineer from Pygmalion, reports coworker for suspected theft
-### cafe? nonviolent, brave, civic minded
+* Engineer from Pygmalion, reports coworker for suspected theft
+* cafe? nonviolent, brave, civic minded
 
 ## Captain Carrigan
 ### security chief of Pygmalion ship depot, loyal to her people
