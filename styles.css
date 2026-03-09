@@ -8,7 +8,7 @@
 }
 
 /* Dark Theme Variables */
-[data-bs-theme="light"] {
+[data-bs-theme="dark"] {
     --bd-toc-color: rgba(var(--bs-white-rgb), 1);
 }
 
