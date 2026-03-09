@@ -1,3 +1,7 @@
+---
+title: "Lore"
+---
+
 * The Natural Order joins the Presidium as a political concession
     * They have little funding, influence, or political power - elements of the
       Order turn to terrorist activities

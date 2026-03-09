@@ -1,4 +1,6 @@
-# Factions
+---
+title: "Factions"
+---
 
 ## The Presidium
 The high council that advises and legislates galactic matters. The Presidium

@@ -1,3 +1,7 @@
+---
+title: "Characters"
+---
+
 ## Galatea Navarre
 * Ellakian, underwent genetic experiments as a child
 * tentacle arm, various other modifications (spikes, limited psychic capability)

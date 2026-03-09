@@ -1,4 +1,7 @@
-# Species
+---
+title: "Species"
+---
+
 ## Ellakians
 Most recently discovered sentient species, purposefully reshaped themselves as
 human adjacent based off of human-derived signals, most human presenting

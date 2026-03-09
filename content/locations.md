@@ -1,4 +1,7 @@
-# Locations
+---
+title: "Locations"
+---
+
 ## Planets 
 * Pygmalion
     * White hat planet, engineering and ship technology hub

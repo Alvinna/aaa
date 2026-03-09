@@ -1,5 +1,6 @@
-# Rules
-
+---
+title: "Rules"
+---
 
 ## Character stats
 * Dexterity (Reflexive/Graceful)
