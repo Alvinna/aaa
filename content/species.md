@@ -5,7 +5,7 @@ title: "Species"
 ## Ellakians
 Most recently discovered sentient species, purposefully reshaped themselves as
 human adjacent based off of human-derived signals, most human presenting
-individuals lose the ability to perform major shape-shifting, they will have
+individuals lose the ability to perform major shape-shifting after adolescenec, they will have
 chosen aesthetic features and limited reshaping abilities; also they are purple
 
 ## Human 
@@ -16,6 +16,9 @@ Giant plantlike starfish, many limbs, extremely resilient. They talk to each
 other via complex chromatophores, translators so far are low tech making it
 difficult for them to communicate with other species also new space travel tech
 (eggs) designed based off their biology, to withstand massive g forces
+Originally from a high gravity planet and evolved under a blue giant star with high
+radiation, Istrians conceived the Dyson sphere to capture their sun's energy and reduce
+its harmful effects.
 
 ## Automaton
 AI revolution centuries ago, accompanied by the breakdown of the internet and
